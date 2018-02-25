@@ -1,9 +1,2 @@
 ls -lart
 pwd
-no echo file
-<<<<<<< HEAD
-echo "world"
-=======
-echo "worl"
->>>>>>> 0d2d5f5ee3cb986bd33f752fd19984e10b54aef9
-full main world
